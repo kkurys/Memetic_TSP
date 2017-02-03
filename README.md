@@ -1,4 +1,5 @@
 # Memetic_TSP
+# Kamil Kuryś, 2015
 Memetic algorithm to solve TSP problem with constraints
 - Problem
 Given N cities located on coordinates (float numbers)  with P profit each, find route with highest summary profit and shorter than given
